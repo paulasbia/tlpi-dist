@@ -17,7 +17,7 @@
 */
 #include "tlpi_hdr.h"
 
-static int idata = 111;             /* Allocated in data segment */
+static int idata = 11;             /* Allocated in data segment */
 
 int
 main(int argc, char *argv[])
